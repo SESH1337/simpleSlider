@@ -1,0 +1,72 @@
+
+body {
+  font-family: sans-serif;
+  overflow-x: hidden;
+  background-color:#ffdfdf;
+}
+
+#mainSlider {
+  display: flex;
+}
+.boxSlider {
+  width: 1000px;
+  height: 100%;
+  display: flex;
+}
+.mainSlider{
+  display: flex;
+ justify-content: center;
+ margin-top: 10%;
+}
+
+.slideSize {
+  /* width: 600px; */
+  height: 100%;
+
+}
+
+#firstSlide {
+  display: block;
+  /* position: relative; */
+}
+#secSlide {
+  display: none;
+}
+#thirdSlide {
+  display: none;
+}
+
+.block{
+      display: block;
+}
+#button-left{
+  background-color:#FFF5EE;
+  width: 45px;
+  font-size: 50px;
+  font-family: "ALKDots", sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+
+#button-right{
+  background-color:#FFF5EE;
+  width: 45px;
+  font-size: 50px;
+  font-family: "ALKDots", sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+}
+.p-1{
+  font-size: 25px;
+  font-family: "ALKDots", sans-serif;
+  font-weight: bolder;
+
+
+}
+.p-2{
+  font-size: 25px;
+  font-family: "ALKDots", sans-serif;
+font-weight: bold;
+
+}

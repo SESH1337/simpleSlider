@@ -10,7 +10,7 @@ body {
   display: flex;
 }
 .boxSlider {
-  width: 1000px;
+  /* width: 1000px; */
   height: 100%;
   display: flex;
 }
